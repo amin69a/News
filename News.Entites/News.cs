@@ -23,6 +23,5 @@ namespace News.Entites
         public byte MainCategoryId { get; set; }
         public int MainFileId { get; set; }
         public NewsState State { get; set; }
-
     }
 }
